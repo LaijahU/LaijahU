@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Connect with Me
-📧 **Email:** enmuyu2106@gmail.com  
+📧 **Email:** enmyu2106@gmail.com
 🌐 **GitHub:** [github.com/LaijahU](https://github.com/LaijahU)  
 
 ---
