@@ -24,7 +24,7 @@
 
 ### 📂 Featured Projects
 - 🏦 **Java Bank Simulator** – A console-based Java app that simulates deposits, withdrawals, and balance checks using OOP concepts.  
-  🔗 [View Project](https://github.com/LaijahU/JavaBankSimulator)
+  🔗 [View Project]([https://github.com/LaijahU/JavaBankSimulator](https://github.com/LaijahU/Java-Bank-Simulator))
 
 ---
 
